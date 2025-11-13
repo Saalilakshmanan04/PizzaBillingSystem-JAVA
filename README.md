@@ -35,6 +35,25 @@ PizzaBillGenerator/
 ├── .gitignore
 └── README.md
 
+💻 How It Works
+
+1️⃣ The user selects Veg or Non-Veg pizza.
+2️⃣ Enters the quantity.
+3️⃣ Chooses to add cheese, toppings, or takeaway for each pizza.
+4️⃣ The total bill is calculated and displayed in the console.
+5️⃣ The bill is also saved to PizzaBill.txt using file handling.
+
+🧾 Sample Output
+
+------------- Pizza Bill -------------
+Veg Pizza: ₹300
+Extra Cheese Added: ₹100
+Extra Toppings Added: ₹150
+Quantity: 2
+--------------------------------------
+Total Bill: ₹1100
+✅ Bill saved to PizzaBill.txt
+
 
 🎯 Learning Outcomes
 
