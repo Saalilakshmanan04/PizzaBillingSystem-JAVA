@@ -1,0 +1,47 @@
+---------- PIZZA BILL ----------
+Base Pizza Price: 400
+Extra Cheese Added: +100
+Extra Toppings Added: +150
+-------------------------------
+Total Bill: ₹650
+
+
+------------- Pizza Bill -------------
+Non-Veg Pizza: ₹400
+Extra Cheese Added: ₹100
+--------------------------------------
+Total Bill: ₹500
+
+
+------------- Pizza Bill -------------
+Non-Veg Pizza (x3): ₹400
+Extra Cheese Added: ₹100
+Takeaway Added: ₹20
+--------------------------------------
+Total Bill: ₹1560
+--------------------------------------
+
+
+
+=========== Final Bill ===========
+Pizza 1 (Veg)
+Base Price: ₹300
+Extra Cheese: ₹100
+Extra Toppings: ₹150
+Subtotal: ₹550
+---------------------------------
+Pizza 2 (Non-Veg)
+Base Price: ₹400
+Extra Cheese: ₹100
+Extra Toppings: ₹150
+Subtotal: ₹650
+---------------------------------
+Pizza 3 (Veg)
+Base Price: ₹300
+Extra Toppings: ₹150
+Subtotal: ₹450
+---------------------------------
+Grand Total: ₹1650
+==================================
+
+
